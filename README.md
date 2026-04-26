@@ -8,10 +8,10 @@ Este projeto **automatiza a limpeza**, **segmentação** e **análise estatísti
 - **Segmentação Automatizada:** Divisão do dataset principal em arquivos individuais por ativo com normalização de nomes.
 - **Análise de Risco (Volatilidade):** Cálculo de Variância e Desvio Padrão para medir a estabilidade dos ativos.
 - **Estatística Avançada:**
-  - **Correlação de Spearman:** Para identificar o grau de sincronia entre ativos, ignorando ruídos (outliers).
+  - **Correlação de Spearman:** Para identificar o grau de sincronia entre ativos, **ignorando ruídos (outliers).**
   - **Regressão Linear:** Modelagem matemática da relação entre ativos (ex: IPCA vs Selic).
-  - **Regressão Logística:** Classificação binária para prever probabilidades de lucro.
-- **Métricas de Performance:** Cálculo de R² (Coeficiente de Determinação) e RMSE (Raiz do Erro Quadrático Médio) para validar a precisão das previsões.
+  - **Regressão Logística:** Classificação binária para prever **probabilidades de lucro.**
+- **Métricas de Performance:** Cálculo de **R² (Coeficiente de Determinação)** e **RMSE (Raiz do Erro Quadrático Médio)** para validar a precisão das previsões.
 
 ## 🛠️ Tecnologias Utilizadas
 
