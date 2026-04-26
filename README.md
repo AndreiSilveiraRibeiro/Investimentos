@@ -1,6 +1,6 @@
 # 📈 Projeto de Análise Estatística de Investimentos
 
-Este projeto automatiza a limpeza, segmentação e análise estatística de uma carteira diversificada de investimentos (Ações, Criptoativos e Renda Fixa) utilizando Python e Ciência de Dados.
+Este projeto **automatiza a limpeza**, segmentação e análise estatística de uma carteira diversificada de investimentos (Ações, Criptoativos e Renda Fixa) utilizando Python e Ciência de Dados.
 
 ## 🚀 Funcionalidades
 
